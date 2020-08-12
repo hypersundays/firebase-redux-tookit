@@ -1,0 +1,18 @@
+.form {
+  margin: 1em;
+}
+
+.form > * {
+  display: block;
+  margin: 0.5em auto;
+}
+
+.form > input {
+  width: 75%;
+  text-align: center;
+}
+
+.errorMsg {
+  color: red;
+  font-weight: bold;
+}

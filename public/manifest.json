@@ -1,0 +1,9 @@
+{
+  "short_name": "firebase-redux-toolkit",
+  "name": "hypersundays firebase-redux-toolkit starter",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

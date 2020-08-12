@@ -1,0 +1,18 @@
+.header {
+  height: 3em;
+  background-color: cornflowerblue;
+}
+
+.title {
+  line-height: 3em;
+  color: white;
+  font-weight: bolder;
+  font-size: 1em;
+}
+
+.signOut {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 0.8em;
+  line-height: 2em;
+}
