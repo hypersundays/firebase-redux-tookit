@@ -5,7 +5,6 @@ import { Header } from './features/header/Header';
 import { LoginSignup } from './features/login-signup/LoginSignup';
 import { isLoggedIn, loginOrSignupSuccess, loadingOff } from './app/slices/userSlice';
 import './App.css';
-import './picnic.css';
 
 function App() {
   let loggedIn = useSelector(isLoggedIn);
