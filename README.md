@@ -2,7 +2,7 @@
 
 I've been spending a lot of time building frontend apps with React+Redux-Tookit+Firebase that it only made sense for me to make a template so that it wouldn't be too hard to configure my projects.
 
-Install by running `npx degit hypersundays/firebase-redux-tookit`.
+Install by running inside your project directory `npx degit hypersundays/firebase-redux-tookit`.
 
 This was modified from the CRA Redux-Tookit template. I've left the original instructions from CRA below.
 
