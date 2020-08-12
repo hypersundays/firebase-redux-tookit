@@ -12,10 +12,10 @@ I've also included [Picnic.css](https://picnicss.com) via `index.html` so all of
 
 For Firebase, follow the instructions from their docs to get your credentials. Once you're done, you'll notice in `src/firebase.js` that there are ENV variables mapped according to the credentials you'll get. Create a `.env` file in your project root with the credentials in the format of `REACT_APP_API_KEY=********`.
 
-** DO NOT COMMIT YOUR .ENV FILE **
+## DO NOT COMMIT YOUR .ENV FILE ##
 
 
-* original CRA README *
+# original CRA README
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
